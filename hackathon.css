@@ -1,0 +1,44 @@
+table {
+    border: 1;
+    border-collapse: collapse;
+    width: 100%;
+    height: 100%
+}
+
+body {
+    background-image: url("https://images4.newscred.com/Zz1kNmFkYmFmNzhlNGIxMWViYTU1ZDFmYjg0ZWI5MTc4Zg==");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+    background-size: cover;
+}
+
+#academics {
+    background-position: center;
+    background-image: url("https://cdn.discordapp.com/attachments/878162805067509761/909310078111346699/Rivers.jpg");
+}
+
+#Placements {
+    background-position: center;
+    background-image: url("https://cdn.discordapp.com/attachments/878162805067509761/909310716304052244/Advik_Vidrohi.png");
+}
+
+#Resume {
+    background-position: center;
+    background-image: url("https://cdn.discordapp.com/attachments/878162805067509761/909311524890349620/Resumes.png");
+}
+
+#qn {
+    background-position: center;
+    background-image: url("https://cdn.discordapp.com/attachments/878162805067509761/909311139081502720/Advik_Vidrohi_1.png");
+}
+
+#header {
+    background-position: center;
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: fit-content;
+    height: fit-content;
+    background-image: url("https://cdn.discordapp.com/attachments/878162805067509761/909319068388065280/Gray_and_White_Simple_Minimalist_Urban_Photograph_LinkedIn_Article_Cover_Image_.jpg");
+}
